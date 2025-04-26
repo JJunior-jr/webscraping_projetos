@@ -22,7 +22,7 @@ st.title("Pesquisa de Mercado - Notbooks no Mercado Livre")
 
 # Melhorar o layout com colnas para KPIs
 
-st.subheader()"KPIs Principais")
+st.subheader("KPIs Principais")
 col1, col2, col3= st.columns(3)
 
 #KPI1: Número total de itens
