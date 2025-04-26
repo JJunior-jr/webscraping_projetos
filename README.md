@@ -36,3 +36,5 @@
 
 Sempre no projeto é importante criar duas colunas 
 * '_source' | '_datetime'  (o underline é do mesmo conceito de POO uma variável privada que não se deve mexer)
+
+** Quando quiser trocar o nome de uma variável pressione 'crtl + d' e  vai pressionando 'crtl + d' até selecionar todas  as variáveis com o mesmo nome.
