@@ -32,3 +32,7 @@
         * 'scrapy crawl notebook -o data.json' -- salva em JSON
         * 'scrapy crawl notebook -o data.csv' -- salva em CSV
 
+## TRATAMENTO DE DADOS COM PANDAS
+
+Sempre no projeto é importante criar duas colunas 
+* '_source' | '_datetime'  (o underline é do mesmo conceito de POO uma variável privada que não se deve mexer)
