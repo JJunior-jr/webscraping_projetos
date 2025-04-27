@@ -32,7 +32,7 @@ col1.metric(label="Total de Notbooks", value= total_itens)
 
 #KPI2: Número de marcas únicas
 
-unique_brands= df['brand'].unique()
+unique_brands= df['brand'].nunique()
 col2.metric(label="Marcas Únicas", value= unique_brands)
 
 #KPI3: Preço médio novo (em reais)
